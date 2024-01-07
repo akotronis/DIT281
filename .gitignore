@@ -1,0 +1,5 @@
+DIT281-Deadines.txt
+*.venv
+.ipynb_checkpoints
+flowers*
+project*.py
