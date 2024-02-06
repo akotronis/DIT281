@@ -3,3 +3,6 @@ DIT281-Deadines.txt
 .ipynb_checkpoints
 flowers*
 project*.py
+resources
+Presentation-Slides*
+*.zip
